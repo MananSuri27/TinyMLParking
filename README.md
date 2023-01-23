@@ -19,3 +19,7 @@ We use TFLite to train a model on a set of images of individual parking spots, w
 ![Model Architecture](https://cdn.discordapp.com/attachments/891317274936483871/1067004937441116160/Z.png)
 
 ## System
+![diag](https://cdn.discordapp.com/attachments/891317274936483871/1067028236455903284/Parking.drawio_1.png)
+
+## Demo
+![gif](https://cdn.discordapp.com/attachments/891317274936483871/1067029917532962866/WhatsApp_Video_2023-01-23_at_14.00.55_1.gif)
