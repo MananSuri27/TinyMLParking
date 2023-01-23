@@ -6,6 +6,6 @@ We use TFLite to train a model on a set of images of individual parking spots, w
 
 ### Examples from dataset:
 ### EfficientNet-Lite
-![Model Architecture](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.researchgate.net%2Ffigure%2FThe-network-architecture-of-EfficientNet-It-can-output-a-feature-map-with-deep-semantic_fig3_349299852&psig=AOvVaw3P7xn-7wuIgI8sV-gAlqXC&ust=1674550448575000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMi46tao3fwCFQAAAAAdAAAAABAE)
+![Model Architecture](https://cdn.discordapp.com/attachments/891317274936483871/1067004937441116160/Z.png)
 
 ## System
