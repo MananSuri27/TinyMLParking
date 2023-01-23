@@ -7,8 +7,8 @@ We use TFLite to train a model on a set of images of individual parking spots, w
 ### Examples from dataset:
 #### Empty
 ![Empty](https://github.com/MananSuri27/TinyMLParking/blob/main/TinyMLParking/train_data/test/empty/spot224.jpg)
-![Empty](https://github.com/MananSuri27/TinyMLParking/blob/main/TinyMLParking/train_data/test/empty/spot285.jpg)
-![Empty](https://github.com/MananSuri27/TinyMLParking/blob/main/TinyMLParking/train_data/test/empty/spot286.jpg)
+![Empty](https://github.com/MananSuri27/TinyMLParking/blob/main/TinyMLParking/train_data/train/empty/spot285.jpg)
+![Empty](https://github.com/MananSuri27/TinyMLParking/blob/main/TinyMLParking/train_data/train/empty/spot286.jpg)
 
 #### Occupied
 ![Occupied](https://github.com/MananSuri27/TinyMLParking/blob/main/TinyMLParking/train_data/train/occupied/spot195.jpg)
